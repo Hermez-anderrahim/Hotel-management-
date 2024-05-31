@@ -89,3 +89,6 @@ git clone https://github.com/Hermez-anderrahim/Hotel-management-.git
 cd Hotel-management-/hotelproject
 /mvnw clean install
 ```
+To login as admin :
+- email= admin
+- password= admin12345#
