@@ -90,11 +90,10 @@ cd Hotel-management-/hotelproject
 /mvnw clean install
 ```
 
-\`\`\`javascript
+```javascript
 const hello = 'Hello, world!';
 console.log(hello);
-\`\`\`
-`;
+```
 To login as admin :
 - email= admin
 - password= admin12345#
