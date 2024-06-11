@@ -89,6 +89,12 @@ git clone https://github.com/Hermez-anderrahim/Hotel-management-.git
 cd Hotel-management-/hotelproject
 /mvnw clean install
 ```
+
+\`\`\`javascript
+const hello = 'Hello, world!';
+console.log(hello);
+\`\`\`
+`;
 To login as admin :
 - email= admin
 - password= admin12345#
